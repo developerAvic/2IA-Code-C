@@ -36,20 +36,3 @@ Click **View Code** beside any program to open the source file.
 | Library Management System | [View Code](library%20management%20-%20program%2010.c) |
 
 ---
-
-## 🧠 How to Use This Repository
-
-- Click on any file to view its source code.
-- Each program is self-contained and can be compiled with a standard C compiler (`gcc`/`clang`).
-
----
-
-## 📌 Notes
-
-- All files are `.c` source files written in plain C.
-- The repository name (`FinalLabsC`) indicates its focus on lab exercise implementations in C.
-
----
-
-Happy coding! 🎯  
-If you want detailed summaries of what each program does *line by line*, just ask — I can generate those too.
